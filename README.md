@@ -1,0 +1,5 @@
+- # Install Package PuppeteerSharp From Nuget Package Manager.
+- # Install Google-Chrome On Your OS (windows or linux) And Put The chrome Path in file ExportPdfController In Variable 'googleChromePath'
+- # Put Your Html Content In File : TestExport.cshtml (if has rtl content change the html dir to rtl)
+- # Put Your CSS Files In wwwroot/css Directory
+- # Run App And Go To Url : https://localhost:7215/ExportPdf/TestExport
